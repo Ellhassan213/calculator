@@ -1,0 +1,50 @@
+.Display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: coral;
+    height: 40px;
+    width: 198px;
+    color: black;
+    font-size: 10px;
+    border: 1px outset white;
+}
+
+.ACButton {
+    border: 1px outset white;
+    background-color: lightBlue;
+    height: 30px;
+    width:150px;
+    cursor:pointer;
+ }
+ 
+ .ACButton:hover {
+    background-color: lightgoldenrodyellow;
+    color:black;
+ }
+
+ .EQButton {
+    border: 1px outset white;
+    background-color: lightBlue;
+    height: 30px;
+    width:100px;
+    cursor:pointer;
+ }
+ 
+ .EQButton:hover {
+    background-color: lightgoldenrodyellow;
+    color:black;
+ }
+
+ .Button {
+    border: 1px outset white;
+    background-color: lightBlue;
+    height: 30px;
+    width:50px;
+    cursor:pointer;
+ }
+ 
+ .Button:hover {
+    background-color: lightgoldenrodyellow;
+    color:black;
+ }
